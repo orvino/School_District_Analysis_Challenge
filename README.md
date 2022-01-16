@@ -102,21 +102,12 @@ New Analysis:
 
 ## Summary
 
-The analysis of the election. show that:
-- There were 369,711 votes cast in the election.
-- The candidates were:
-  - Charles Casper Stockham
-  - Diana DeGette
-  - Raymon Anthony Doane
-  
-- The candidate results were as follows:
-  - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
-  - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-  - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
-  
-- The winner of the election was:
-  - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
+Four changes in the updated school district analysis for the THS 9th grade:
 
-- Election audit summary:
-  - The creation of this program file, can be used in other elections.  While currently, this is serving to perform this task given three variables; ballots,         candidates, and counties.  We can expand on this to other degrees.
-  - If we would like to change from known counties to known voting districts, we can take the original code:
+  1. The overall passing rate for Thomas High School changed dramatically from 91% to 65%.
+
+  2. Thomas High School's ranking dropped from 2nd to 8th in the district of 15 campuses.
+
+  3. Data at the grade level will now show as "NaN" in reports for the 9th grade students at Thomas High School
+
+  4. In addition to the overall passing rate, the campus math and reading averages and passing percentages all saw shifts.
