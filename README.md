@@ -29,11 +29,13 @@ The new analysis shows the effects of dropping 461 THS 9th graders student score
 
 ### How is the school summary affected?
 Original Analysis:
+
 <img width="828" alt="Screen Shot 2022-01-16 at 7 09 43 AM" src="https://user-images.githubusercontent.com/91889241/149661301-f20bad7a-ae2a-46f2-8370-981c6e14a2d3.png">
 
 The original analysis shows an passing scores of 93.3%, 97.3% and 90.9% for math, reading, and both, respectively.
 
 New Analysis:
+
 <img width="825" alt="Screen Shot 2022-01-16 at 7 09 49 AM" src="https://user-images.githubusercontent.com/91889241/149661311-792a5fe0-ac7b-4f7a-be68-2a6009f2d0b0.png">
 
 The new analysis shows after adjusting for the suspected manipulation of the THS 9th graders, the math, reading and both drop to 66.9%, 69.7% and 65.1%, respectively.  A drop of over 25 points for each category and an indication of an outlier for the 9th grade.
@@ -41,11 +43,13 @@ The new analysis shows after adjusting for the suspected manipulation of the THS
 ### How does replacing the ninth graders' math and reading scores affect THS's performance relative to the other schools?
 
 Original Analysis:
+
 <img width="825" alt="Screen Shot 2022-01-16 at 7 23 13 AM" src="https://user-images.githubusercontent.com/91889241/149661772-08d96d8c-3f4d-40c0-96df-dc70cff04027.png">
 
 In the original analysis, THS scores were showing THS as the second best performing school.
 
 New Analysis:
+
 <img width="824" alt="Screen Shot 2022-01-16 at 7 23 20 AM" src="https://user-images.githubusercontent.com/91889241/149661774-c81ce58b-77cc-4b06-a17d-597221f81fd4.png">
 
 In the new analysis, THS is in the middle of all schools in overall passing percentage.
@@ -56,20 +60,23 @@ In the new analysis, THS is in the middle of all schools in overall passing perc
 Math and reading scores by grade are unaffected for every school other than THS, as the scores and percentage of passing are done on a school by school basis.  THS in the 9th grade shows NaN to represent a non-score.
 
 Original Analysis for math:
+
 <img width="424" alt="Screen Shot 2022-01-16 at 7 37 25 AM" src="https://user-images.githubusercontent.com/91889241/149662392-dca368c9-a578-4149-8c4f-7bc12cd92d39.png">
 
 New Analysis for math:
+
 <img width="295" alt="Screen Shot 2022-01-16 at 7 38 31 AM" src="https://user-images.githubusercontent.com/91889241/149662422-a7873aed-09ec-497c-bf8c-9cf6a8427e07.png">
 
 #### Scores by school spending
 Scores by school spending have little effect on the outcome; the total amount of students was not changed for the analysis, only the grade values for THS 9th graders.  THS is the $630 - $644 range.
 
 Original Analysis:
+
 <img width="825" alt="Screen Shot 2022-01-16 at 7 48 19 AM" src="https://user-images.githubusercontent.com/91889241/149662785-d9cb3f0d-bec5-49cb-b2fa-3e681fa784bf.png">
 
 New Analysis:
-<img width="831" alt="Screen Shot 2022-01-16 at 7 48 48 AM" src="https://user-images.githubusercontent.com/91889241/149662792-c5b2623a-6f0e-48c1-b269-93f08fd9efa0.png">
 
+<img width="831" alt="Screen Shot 2022-01-16 at 7 48 48 AM" src="https://user-images.githubusercontent.com/91889241/149662792-c5b2623a-6f0e-48c1-b269-93f08fd9efa0.png">
 
 #### Scores by school size
 
