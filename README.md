@@ -99,8 +99,7 @@ Original Analysis:
 
 New Analysis:
 
-<img width="828" alt="Screen Shot 2022-01-16 at 7 59 58 AM" src="https://user-images.githubusercontent.com/91889241/149663160-41bd4568-c9d8-40f3-8cc9-f0c619110bfb.png">
-
+<img width="829" alt="Screen Shot 2022-01-16 at 8 01 14 AM" src="https://user-images.githubusercontent.com/91889241/149663217-852f0f0c-bf90-4638-ad76-7ae6927c3553.png">
 
 ## Summary
 
