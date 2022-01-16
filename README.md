@@ -94,8 +94,7 @@ THS is classified as a Charter school.  THS, as a whole, makes up 13% of the cha
 
 Original Analysis:
 
-<img width="827" alt="Screen Shot 2022-01-16 at 7 50 32 AM" src="https://user-images.githubusercontent.com/91889241/149663155-efa1b313-3ac0-4e52-a6ab-a9e109b30e7b.png">
-
+<img width="826" alt="Screen Shot 2022-01-16 at 8 02 08 AM" src="https://user-images.githubusercontent.com/91889241/149663268-36e95315-2ea3-41cf-92d0-fcaf5db8ba9c.png">
 
 New Analysis:
 
