@@ -79,14 +79,27 @@ New Analysis:
 <img width="831" alt="Screen Shot 2022-01-16 at 7 48 48 AM" src="https://user-images.githubusercontent.com/91889241/149662792-c5b2623a-6f0e-48c1-b269-93f08fd9efa0.png">
 
 #### Scores by school size
+THS is defined as a medium sized school with 1000-2000 students.  Due to THS dropped 9th grade scores, this only represents 1.1% of the total population of students and shows only a nominal drop in passing percentage overall catetgories; math, reading and overall.
 
+Original Analysis:
 
+<img width="824" alt="Screen Shot 2022-01-16 at 7 50 26 AM" src="https://user-images.githubusercontent.com/91889241/149662924-0187381d-087c-4240-a2ab-55114d520398.png">
 
+New Analysis:
+
+<img width="827" alt="Screen Shot 2022-01-16 at 7 50 32 AM" src="https://user-images.githubusercontent.com/91889241/149662932-efceb7d4-6b2b-49c6-986e-c5d34689ca57.png">
 
 #### Scores by school type
+THS is classified as a Charter school.  THS, as a whole, makes up 13% of the charter schools student population.  THS 9th grade class is 3.8% of the total.  Due to such a small factor, we see very little drop in the key metrics once the 9th grade class is removed for THS.
+
+Original Analysis:
+
+<img width="827" alt="Screen Shot 2022-01-16 at 7 50 32 AM" src="https://user-images.githubusercontent.com/91889241/149663155-efa1b313-3ac0-4e52-a6ab-a9e109b30e7b.png">
 
 
+New Analysis:
 
+<img width="828" alt="Screen Shot 2022-01-16 at 7 59 58 AM" src="https://user-images.githubusercontent.com/91889241/149663160-41bd4568-c9d8-40f3-8cc9-f0c619110bfb.png">
 
 
 ## Summary
